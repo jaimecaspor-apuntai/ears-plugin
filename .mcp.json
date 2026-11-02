@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ears": {
+      "type": "http",
+      "url": "https://useears.com/mcp"
+    }
+  }
+}

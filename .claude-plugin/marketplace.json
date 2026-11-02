@@ -1,0 +1,12 @@
+{
+  "name": "ears",
+  "description": "Ears: pay-as-you-go audio and video transcription for AI assistants.",
+  "owner": { "name": "Ears", "url": "https://useears.com" },
+  "plugins": [
+    {
+      "name": "ears",
+      "source": "./",
+      "description": "Gives your assistant ears: transcribe audio and video from a link or from your computer and get text and SRT subtitles."
+    }
+  ]
+}

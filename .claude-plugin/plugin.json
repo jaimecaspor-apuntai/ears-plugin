@@ -1,0 +1,16 @@
+{
+  "name": "ears",
+  "displayName": "Ears – Audio & Video Transcription",
+  "version": "0.1.0",
+  "description": "Gives your assistant ears: transcribe audio and video from a link or from your computer and get text, the language and SRT subtitles. Pay-as-you-go credits; nothing is stored.",
+  "author": { "name": "Ears", "url": "https://useears.com" },
+  "homepage": "https://useears.com",
+  "repository": "https://github.com/jaimecaspor-apuntai/ears-plugin",
+  "license": "MIT",
+  "icon": "./icon.png",
+  "keywords": ["transcription", "audio", "video", "subtitles", "srt", "speech-to-text", "whisper", "meetings", "mcp"],
+  "documentationUrl": "https://useears.com/docs",
+  "supportUrl": "https://useears.com/docs",
+  "privacyPolicyUrl": "https://useears.com/privacy",
+  "termsOfServiceUrl": "https://useears.com/terms"
+}
